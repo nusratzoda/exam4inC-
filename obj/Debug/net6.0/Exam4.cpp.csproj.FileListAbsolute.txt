@@ -1,0 +1,15 @@
+C:\Users\Сухайб\Desktop\Exam4.cpp\bin\Debug\net6.0\Exam4.cpp.exe
+C:\Users\Сухайб\Desktop\Exam4.cpp\bin\Debug\net6.0\Exam4.cpp.deps.json
+C:\Users\Сухайб\Desktop\Exam4.cpp\bin\Debug\net6.0\Exam4.cpp.runtimeconfig.json
+C:\Users\Сухайб\Desktop\Exam4.cpp\bin\Debug\net6.0\Exam4.cpp.dll
+C:\Users\Сухайб\Desktop\Exam4.cpp\bin\Debug\net6.0\Exam4.cpp.pdb
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.csproj.AssemblyReference.cache
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.AssemblyInfoInputs.cache
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.AssemblyInfo.cs
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.csproj.CoreCompileInputs.cache
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.dll
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\refint\Exam4.cpp.dll
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.pdb
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\Exam4.cpp.genruntimeconfig.cache
+C:\Users\Сухайб\Desktop\Exam4.cpp\obj\Debug\net6.0\ref\Exam4.cpp.dll
